@@ -1,3 +1,4 @@
+
 # Urban-views
 
 ## Project Work by:
@@ -15,6 +16,11 @@ and admin can add movie to the list and much more.
 <img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747782-37b7ec31-bb6f-4610-ba22-7ef987ffd639.JPG">
                                 
 <img width="1438" alt="ss" src="https://user-images.githubusercontent.com/64154442/127747780-962a2e87-05b0-4826-8bc7-549151084dad.png">
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/39727166/127816162-f7727691-e390-454a-ac64-15b83d984561.png">
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/39727166/127816808-095aa35c-01b1-4e0c-81bc-ad153347d320.jpg">
+<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/39727166/127817600-65f56bbd-ef98-46d0-a316-c208a9976c1f.jpg">
+
+
 
 <small>This project will be completed and hosted very soon! </small>
 
