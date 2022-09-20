@@ -1,12 +1,6 @@
 
 # Urban-views
 
-## Project Work by:
-#### Jay Shrivastava : 18105126003
-#### Anshuman Sinha : 18105126025
-#### Saket Kumar Singh : 18105126055
-#### Swaranjali Shanker : 18105126013
-
 
 A Full stack MERN website for movie theatres where user can search for movies and filter by rating and genres that are available,
 and admin can add movie to the list and much more.
